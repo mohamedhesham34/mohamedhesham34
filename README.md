@@ -1,5 +1,11 @@
 ## Hi there 👋
+## 🚀 Tech Stack
 
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript)
+
+## 📚 Currently Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-Learning-blue?style=for-the-badge&logo=typescript)
 <!--
 **mohamedhesham34/mohamedhesham34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
