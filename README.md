@@ -5,10 +5,10 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohamed_hesham005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedhesham34)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mohameddev34)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddev34@gmail.com)
+<a href="https://instagram.com/mohamed_hesham005"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mohamedhesham34"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Mohameddev34"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:mohameddev34@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -16,20 +16,21 @@
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=ts,js" />
 
 **Runtime & Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,bun,express" />
 
 **DevOps & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=linux,git,github" />
+
+</div>
 
 ---
 
@@ -37,11 +38,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mohamedhesham34&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=mohamedhesham34&theme=tokyonight&hide_border=true)
+<img src="https://nirzak-streak-stats.vercel.app/?user=mohamedhesham34&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
 </div>
 
@@ -51,7 +52,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=mohamedhesham34&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedhesham34&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
