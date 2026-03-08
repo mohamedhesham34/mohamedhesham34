@@ -5,10 +5,10 @@
 
 <br/>
 
-<a href="https://instagram.com/mohamed_hesham005"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/mohamedhesham34"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/Mohameddev34"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:mohameddev34@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/mohamed_hesham005"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mohamedhesham34"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="https://x.com/Mohameddev34"><img src="https://cdn.simpleicons.org/x/ffffff" width="36" height="36" /></a>&nbsp;&nbsp;
+<a href="mailto:mohameddev34@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" /></a>
 
 </div>
 
