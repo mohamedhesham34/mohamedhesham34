@@ -36,21 +36,12 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&border_radius=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&border_radius=10" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&border_radius=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&border_radius=10" />
-</picture>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
-<br/><br/>
+<br/>
 
-<picture>
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhesham34&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" />
-</picture>
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhesham34&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
