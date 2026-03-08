@@ -38,11 +38,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=mohamedhesham34&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=mohamedhesham34&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
