@@ -24,7 +24,7 @@
 
 **Runtime & Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,bun,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun" />
 
 **DevOps & Tools**
 
