@@ -5,9 +5,7 @@
 
 <br/>
 
-<a href="https://instagram.com/mohamed_hesham005"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/mohamedhesham34"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" /></a>&nbsp;&nbsp;
-<a href="https://x.com/Mohameddev34"><img src="https://cdn.simpleicons.org/x/ffffff" width="36" height="36" /></a>&nbsp;&nbsp;
 <a href="mailto:mohameddev34@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" /></a>
 
 </div>
@@ -38,21 +36,21 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=mohamedhesham34&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&border_radius=10" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&border_radius=10" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhesham34&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" />
+</picture>
 
 </div>
 
