@@ -1,43 +1,68 @@
 <div align="center">
 
-# Mohamed Hesham
-### Backend & DevOps Engineer | Crafting Scalable, Resilient Systems
+# Hi, I'm Mohamed Hesham 👋
+### Backend & DevOps Engineer · Alexandria, Egypt 🇪🇬
 
-**Alexandria, Egypt 🇪🇬**
-
-[LinkedIn](https://linkedin.com/in/mohamedhesham34) • [Email](mailto:mohameddev34@gmail.com)
+<a href="https://linkedin.com/in/mohamedhesham34"><img src="https://skillicons.dev/icons?i=linkedin" width="36" /></a>&nbsp;
+<a href="mailto:mohameddev34@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" /></a>
 
 </div>
 
 ---
 
-## ⚡ Who I Am
-I bridge the gap between **robust backend architecture** and **frictionless deployment**. I don't just write code; I build systems designed for scale, observability, and speed. My passion lies in automating the mundane, containerizing the complex, and shipping quality code that stays up when it matters most.
+## 👨‍💻 About Me
+
+```typescript
+const mohamed = {
+  role:      "Backend & DevOps Engineer",
+  location:  "Alexandria, Egypt 🇪🇬",
+  stack:     ["TypeScript", "Node.js", "Bun"],
+  focus:     ["Scalable APIs", "CI/CD", "Containerization"],
+  now:       "Building cool things & shipping fast 🚀",
+};
+```
 
 ---
 
-## 🛠️ The Toolkit
-*I believe in picking the right tool for the job, but here is my primary arsenal:*
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript |
-| **Backend/Runtime** | Node.js, Bun, Express.js |
-| **DevOps & CI/CD** | Docker, Linux, GitHub Actions |
-| **Infrastructure** | Git, VS Code |
-
----
-
-## 🚀 How I Work (My CI/CD Mindset)
-I focus on the full lifecycle of a feature. My goal is to ensure that every push to the repo is a step toward production, safely and efficiently.
-
----
-
-## 📈 Stats & Activity
-*(Keep these subtle—let the work speak louder than the numbers)*
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&theme=tokyonight&hide_border=true&show_icons=true" />
+
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js" /> |
+| **Runtime & Backend** | <img src="https://skillicons.dev/icons?i=nodejs,bun,express" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" /> |
+
 </div>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohamedhesham34&theme=tokyonight&hide_border=true&show_icons=true" />&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhesham34&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhesham34&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedhesham34&theme=tokyonight&no-frame=true&margin-w=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=mohamedhesham34&icon=6&color=6)](https://visitcount.itsvg.in)
+
+</div>
