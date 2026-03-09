@@ -31,6 +31,7 @@ const mohamed = {
 <div align="center">
 
 | | |
+|:--|:--|
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js" /> |
 | **Runtime & Backend** | <img src="https://skillicons.dev/icons?i=nodejs,bun,express" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" /> |
