@@ -30,7 +30,7 @@ const mohamed = {
 
 <div align="center">
 
-| | |
+
 |:--|:--|
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js" /> |
 | **Runtime & Backend** | <img src="https://skillicons.dev/icons?i=nodejs,bun,express" /> |
