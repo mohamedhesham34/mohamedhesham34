@@ -3,9 +3,7 @@
 # Hi, I'm Mohamed Hesham 👋
 ### Backend & DevOps Engineer · Alexandria, Egypt 🇪🇬
 
-<a href="https://instagram.com/mohamed_hesham005"><img src="https://skillicons.dev/icons?i=instagram" width="36" /></a>&nbsp;
 <a href="https://linkedin.com/in/mohamedhesham34"><img src="https://skillicons.dev/icons?i=linkedin" width="36" /></a>&nbsp;
-<a href="https://x.com/Mohameddev34"><img src="https://cdn.simpleicons.org/x/ffffff" width="32" /></a>&nbsp;
 <a href="mailto:mohameddev34@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" /></a>
 
 </div>
